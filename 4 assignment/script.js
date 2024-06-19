@@ -1,0 +1,11 @@
+let age = 10;
+alert("I am 10+ years old");
+let visitor = 14;
+alert("You have visited this page 14 times"); 
+let birthYear = 2013;
+document.write("My birth year is 2013");
+document.write("Data type of my declared variable is number");
+let name = prompt("Enter your name");
+let product = prompt("Which product do you choose from our website");
+let Quantity = prompt("Quantity");
+document.write("Eshal odered 1 Password lock Box on Daraz shopping store");
